@@ -1,5 +1,5 @@
 /* 
-Edited by: Shageldi Ovezov
+Created by Molena (Thy) Hoang Xuan Nguyen
 Using backtracking to find a treasure and an exit in a maze
 */
 
